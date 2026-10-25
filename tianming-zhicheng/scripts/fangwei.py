@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-fangwei.py · 择城知运 · 方位 + 地域五行计算器
+fangwei.py · 天命之城 · 方位 + 地域五行计算器
 
 用途：以「当前城市」为太极点，计算候选城市相对它的方位角、八方/二十四山方位、
 距离、方位五行；同时查该城市所属古九州与州五行，并给出「方位 vs 州五行」是否同向。
@@ -460,7 +460,7 @@ def show_zhou(name, cities, zhou_map, wx_map):
 
 
 def main():
-    ap = argparse.ArgumentParser(description="择城知运 · 方位 + 地域五行计算器", add_help=True)
+    ap = argparse.ArgumentParser(description="天命之城 · 方位 + 地域五行计算器", add_help=True)
     ap.add_argument("--from", dest="origin_name", help="原点城市（当前长期居住城市）")
     ap.add_argument("--from-lat", type=float, help="原点纬度")
     ap.add_argument("--from-lon", type=float, help="原点经度")

@@ -21,8 +21,8 @@ from collections import Counter, defaultdict
 sys.stdout.reconfigure(encoding="utf-8")
 
 AREAS = "_src/geo/areas.json"
-CITY_FILE = "zecheng-zhiyun/scripts/cities.json"
-ZHOU_FILE = "zecheng-zhiyun/scripts/zhou.json"
+CITY_FILE = "tianming-zhicheng/scripts/cities.json"
+ZHOU_FILE = "tianming-zhicheng/scripts/zhou.json"
 
 # ---------- 名称处理 ----------
 SUFFIX = [
