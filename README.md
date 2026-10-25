@@ -1,5 +1,7 @@
 # 天命之城—如何找到天命城市
 
+> **双仓同步**：[GitHub](https://github.com/watchkd/tianming-zhicheng-skillpack) ｜ [GitCode](https://gitcode.com/jyjy2025/tianming-zhicheng-skillpack)
+
 > **先校验喜用，再研究城市。** 把《滴天髓阐微》《穷通宝鉴》《子平真诠》《三命通会·卷四》四部经典蒸馏成一个可执行的择城流程：先用你过往的人生反查五行喜忌对不对，再用确认过的喜忌去比对城市——方位五行、地域五行两条路各算一遍，冲突就说冲突，不确定就说不确定。
 
 **不是"算命说你该去哪"，是"在你打算去的几个地方里，哪几个和你的盘同向"。**
@@ -91,9 +93,17 @@ tianming-zhicheng/
 ## 六、安装与使用
 
 ```bash
+# GitHub
 git clone https://github.com/watchkd/tianming-zhicheng-skillpack.git
+
+# 或 GitCode（国内访问更快，内容一致）
+git clone https://gitcode.com/jyjy2025/tianming-zhicheng-skillpack.git
+
 cp -r tianming-zhicheng-skillpack/tianming-zhicheng ~/.workbuddy-ai/skills/
 ```
+
+> **从旧版升级**：若曾装过 `zecheng-zhiyun`（旧名"择城知运"），先删掉 `~/.workbuddy-ai/skills/zecheng-zhiyun/` 再装。
+> V2.1.7 起技能标识符改为 `tianming-zhicheng`，不删旧目录会在技能面板里留下一个失效条目。
 
 装好后直接问：
 
