@@ -1,0 +1,55 @@
+{
+ "total_chars": 35268,
+ "sections": [
+  {
+   "section": "起大衍论易动静数",
+   "file": "01_起大衍论易动静数.txt",
+   "chars": 943
+  },
+  {
+   "section": "论九宫数",
+   "file": "02_论九宫数.txt",
+   "chars": 4951
+  },
+  {
+   "section": "论律吕",
+   "file": "03_论律吕.txt",
+   "chars": 3953
+  },
+  {
+   "section": "论七政",
+   "file": "04_论七政.txt",
+   "chars": 5280
+  },
+  {
+   "section": "论八卦八风",
+   "file": "05_论八卦八风.txt",
+   "chars": 2389
+  },
+  {
+   "section": "论治政",
+   "file": "06_论治政.txt",
+   "chars": 2895
+  },
+  {
+   "section": "论诸神",
+   "file": "07_论诸神.txt",
+   "chars": 3064
+  },
+  {
+   "section": "论五帝",
+   "file": "08_论五帝.txt",
+   "chars": 2248
+  },
+  {
+   "section": "论诸官",
+   "file": "09_论诸官.txt",
+   "chars": 3722
+  },
+  {
+   "section": "论禽虫",
+   "file": "10_论禽虫.txt",
+   "chars": 5823
+  }
+ ]
+}

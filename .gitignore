@@ -1,0 +1,30 @@
+# ── 会话与记忆数据（不公开）──────────────────────────
+.workbuddy-ai/
+
+# ── 真实命例报告（含出生时间与个人经历，不入库）──────
+择城报告-*.md
+
+# ── 第三方仓库克隆（仅作参考底本，各有自己的仓库）────
+_src/xuziping-bot/
+_src/ditiansui-skillpack/
+_src/sanmingtonghui-bazi-skillpack/
+_src/ziping-panshu-skillpack/
+_src/repo/
+
+# ── 网页抓取中间产物（可重跑生成）──────────────────
+_src/*.html
+
+# ── 城市坐标抓取缓存（27MB，由 crawl.py 重跑生成）────
+_src/geo/cache/
+
+# ── 根目录重复素材（正式素材在 zecheng-zhiyun/assets/）
+/assets/
+
+# ── 系统与编辑器 ────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+.vscode/
+.idea/

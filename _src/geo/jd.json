@@ -1,0 +1,396 @@
+{
+	"type": "gh",
+	"name": "xiangyuecn/AreaCity-JsSpider-StatsGov",
+	"version": "master",
+	"default": null,
+	"files": [
+		{
+			"name": "/assets/AGT/libs/ztest-codemirror.min.5.48.4.js",
+			"hash": "5Uvi+s8KiJG1E94QA/OT++qudGaBsW7XVW9ZQSeVxrM=",
+			"size": 192675
+		},
+		{
+			"name": "/assets/AGT/libs/ztest-jquery.min-1.9.1.js",
+			"hash": "926a13vF1zr8PUIIqGC5RHpuakH8/YM2oO0w3TUlLoI=",
+			"size": 92593
+		},
+		{
+			"name": "/assets/AGT/WebviewSettings.html",
+			"hash": "hNyM2MND/lFQK8zOJ7+A7x11bEy+7+MPKzC0H28d4dU=",
+			"size": 24432
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/custom_sql_config.js",
+			"hash": "RXoRVlVmXo7zAKn6tSEGiC3pEXrWeV1KsEhhYEeoMcw=",
+			"size": 23117
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/exec/appcmds_test.js",
+			"hash": "hiABAlXwhoInqoFNyqTf43V5TLKlZTGsM+wRz3TzehU=",
+			"size": 11532
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/exec/city_to_db.js",
+			"hash": "xrpLnQlK0M1tNuYdM/1LDVr7mhkitRa2iWGIi5PsrEg=",
+			"size": 19512
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/exec/city_to_sql.js",
+			"hash": "1pjLRUD/fxA5jIWPkF+rmhfXQf2uCqQEqYzBPSV2qtI=",
+			"size": 20172
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/fixline.js",
+			"hash": "M8cOAwVCg4OeQOf53N0ee9qMLbMPlV4e6O0xoK3biT0=",
+			"size": 11669
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/geojson_level_split.js",
+			"hash": "Azh9b0KA+eTvqXLEdfw8Gm5AU8B9P/jqKIyBZs9AiFs=",
+			"size": 22633
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/geojson_merge.js",
+			"hash": "1/mqZS6tbrXxlDozRwduAxfyr/oy4NE1Gy7Fsk6wKxA=",
+			"size": 9873
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/gps_to_bd09.js",
+			"hash": "1HjfJGmxI7EBoH8rWnyxbwuyb+87qV4BNSnWvNpP/fM=",
+			"size": 4037
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/gps_to_gcj02.js",
+			"hash": "VDRKmuer84j88GszzCvCuVCQZjUa2803m/yvrkQfadw=",
+			"size": 3266
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/test_translateGeos.js",
+			"hash": "N730/t+Uv35pscNKfMU2PmyTycQ389mq8FdBtIY/s5k=",
+			"size": 8458
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/to_bd09.js",
+			"hash": "n5C5aGj5Xc4PwEX+pkkJeq8hOuP2jorTjPkcu+ElZgE=",
+			"size": 2956
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/to_wgs84.js",
+			"hash": "g3yTzVXKDuMUSyYwnYhQi6dpH29bNVHB7SvXt2hZsw8=",
+			"size": 6384
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/vector_file_format_convert.js",
+			"hash": "JgGhNqfbQUhP2xGf0pSCtNFGzyA8pkhq1PX/DMM1dSQ=",
+			"size": 13981
+		},
+		{
+			"name": "/assets/AGT/WebviewSettingsCodes/vector_file_format_convert__data.js",
+			"hash": "CTSFz8s1X7n4lG/J8w9PkqYSJfns16lrbVQFSUoqnK8=",
+			"size": 12494
+		},
+		{
+			"name": "/assets/AGT-Images/a0.png",
+			"hash": "uC65BBjwSeMNeUwTarj/J3amu8366XNEQljFMlBEBJo=",
+			"size": 42370
+		},
+		{
+			"name": "/assets/AGT-Images/az-1.png",
+			"hash": "LCjSjUqvrIFW/R0T9d1+2+8jGhOadlbvv4wXc0n8xZg=",
+			"size": 24614
+		},
+		{
+			"name": "/assets/AGT-Images/az-2.png",
+			"hash": "u0/5/wzUOomCPuKYPdwNi3Eui+u66KMhSteY01t/YXE=",
+			"size": 21664
+		},
+		{
+			"name": "/assets/AGT-Images/az-3.png",
+			"hash": "osbnIMzVsmP6rtyy8jY4M9hjnCLA0hBZ6baYoVi4rhE=",
+			"size": 8778
+		},
+		{
+			"name": "/assets/AGT-Images/sy-1.png",
+			"hash": "I5/Xtt2selZEAXmZ23tdMWTuwN/FsmPibOr8OLtVARw=",
+			"size": 27751
+		},
+		{
+			"name": "/assets/AGT-Images/sy-2.png",
+			"hash": "2bNA8RlpOUPLPvVJVGN86Y1hym+BZM8QpQ9DQNsEB9Y=",
+			"size": 75775
+		},
+		{
+			"name": "/assets/AGT-Images/sy-3.png",
+			"hash": "I8ujU9KZTMajki9nkmViHj0iONrPFuU1qmq+xE4XhyI=",
+			"size": 47334
+		},
+		{
+			"name": "/assets/AGT-Images/sy-4.png",
+			"hash": "QU+VwiN+uGvzruVgvOMRQ5nbz6cRaIEc6t0iFnEVz8w=",
+			"size": 46078
+		},
+		{
+			"name": "/assets/AGT-Images/sy-5.png",
+			"hash": "0WgYerozz71/EfC55Ue7gSd8fvOz7+sF0WCtr5OxV2s=",
+			"size": 31624
+		},
+		{
+			"name": "/assets/AGT-Images/sy-6.png",
+			"hash": "yLSOA2M3H8RuKvzlXDZBGI5WqN0RTtvOA3mohnGSgv8=",
+			"size": 50873
+		},
+		{
+			"name": "/assets/AGT-Images/sy-7.png",
+			"hash": "S67fkSCoYutN3b9xyGhlbbbP7ONI5aUoJRiBEp6mm8s=",
+			"size": 24279
+		},
+		{
+			"name": "/assets/AGT-Images/sy-8.png",
+			"hash": "ZV85l7neT2tReUwJgn2Xnq5LhiA8YHBcsG99O+A4ukc=",
+			"size": 27302
+		},
+		{
+			"name": "/assets/AGT-Images/sy-9.png",
+			"hash": "p+OQyCz/JOeBXHOz0pi3Mo9KkVEVoshJXpS9Y3wLnDs=",
+			"size": 31530
+		},
+		{
+			"name": "/assets/AreaCity-Geo-Transform-Tools.html",
+			"hash": "SnkLi8PVzu1dxoRtuo++5l9GJ+8LeeEyvFipcXCLzN4=",
+			"size": 61640
+		},
+		{
+			"name": "/assets/AreaCity-Geo-Transform-Tools-Welcome.html",
+			"hash": "rx8GK88CG7cR7tCa9LJ5yZNP4xOgc/BS+vjI+5PqvfY=",
+			"size": 2599
+		},
+		{
+			"name": "/assets/csv-ver-date.js",
+			"hash": "c0lJwqHcWy9SgVSSunnh/7pE9wDLC61lCyjuZuKwUi0=",
+			"size": 8745
+		},
+		{
+			"name": "/assets/download.html",
+			"hash": "Apjb6vlDa7CCNLXzElUBems/e0mXJg34NI+xH+0G3no=",
+			"size": 7559
+		},
+		{
+			"name": "/assets/echarts.4.9.0.min.js",
+			"hash": "lwAMcEIM4LbH2eRQ18mRn5fwNPqOwEaslnGcCKK78yQ=",
+			"size": 785467
+		},
+		{
+			"name": "/assets/geo-echarts.html",
+			"hash": "74UFq2GRd8qpCckiiVmv+GVRq4eQBGU7ISSpSznET8w=",
+			"size": 19270
+		},
+		{
+			"name": "/assets/geo-echarts.js",
+			"hash": "xdRrqGVSxGknCYu39wvZ3LaP2OWKskzRqzCKqN+ZC9w=",
+			"size": 38205
+		},
+		{
+			"name": "/assets/geo-echarts-aqg-tools.js",
+			"hash": "teXv21qdZehSCtXjGqRrgBg5HCYxEdjd6CvWnm/zrnQ=",
+			"size": 9591
+		},
+		{
+			"name": "/assets/geo-echarts-data-cache-0.js",
+			"hash": "diuSN+3MZSU9kNT0eE1vvW3DtfrK8gzLA3/0i+pCzr0=",
+			"size": 443967
+		},
+		{
+			"name": "/assets/geo-echarts-drop-cscode.js",
+			"hash": "T4j8zpc0TItX9igbGVsf1H+CbIq1eorBJMdnfzD++04=",
+			"size": 40937
+		},
+		{
+			"name": "/assets/geo-level4.html",
+			"hash": "4ebhJ60noNcxRfuJKMpLhbal5Ua6nL+maIqSxGlhk3k=",
+			"size": 35386
+		},
+		{
+			"name": "/assets/geo-level4/preview.png",
+			"hash": "tF2gj8YLdmK0tU5jFRcFMxWjrgEONwujEbFzyNupT7k=",
+			"size": 767240
+		},
+		{
+			"name": "/assets/geo-level4/preview-arcmap-full.png",
+			"hash": "18aYXv9brN7PGuBNRjr1O1WT0pzQGmSoAdn89pUTyzs=",
+			"size": 65218
+		},
+		{
+			"name": "/assets/geo-level4/preview-free.png",
+			"hash": "FDkc8+bSk/yFEQWnGdSO7cw7SKzcvv46tbQdCPyrXRs=",
+			"size": 28435
+		},
+		{
+			"name": "/assets/geo-level4/preview-qgis-wuhan.png",
+			"hash": "Grj2ZVuITFJwlHwWfq7cpCfthGMUS0U6HuaVpghq8UQ=",
+			"size": 159296
+		},
+		{
+			"name": "/assets/geo-level4/z01.png",
+			"hash": "xZRrNcZGp3u7FByrVtrEWATLXRZiXKJnY4zWC/Gzie8=",
+			"size": 90747
+		},
+		{
+			"name": "/assets/geo-level4/z02.png",
+			"hash": "1adYOsCC/ZKQDJd2OzskfPpjSArU5dXjT4eSKKc57Yk=",
+			"size": 14534
+		},
+		{
+			"name": "/assets/geo-level4/z03.png",
+			"hash": "2+X0cYvrswtp0SICSJr7RqDIcv2wKNKnKe/5T3ZG3SU=",
+			"size": 10931
+		},
+		{
+			"name": "/assets/geo-level4/z04.png",
+			"hash": "e6BEXkTIdifRlNYhaPw3QNohc+CdlcWThLJvFuc1CAk=",
+			"size": 24996
+		},
+		{
+			"name": "/assets/icon.png",
+			"hash": "JHrFodrRqlbDFP2CfeLcDv6eYb+ViwSHdlVcxLb1ttw=",
+			"size": 2815
+		},
+		{
+			"name": "/assets/pinyin-python-server/README.md",
+			"hash": "3NR3ZYar8JOTJfpxbzp5kudTXvMneRDp665Rbba3eq0=",
+			"size": 2487
+		},
+		{
+			"name": "/assets/pinyin-python-server/server.py",
+			"hash": "iKDCmYpLB5vKZ/mtNdNvmkvbvoCEwCO0p5bGO+5D10Q=",
+			"size": 4429
+		},
+		{
+			"name": "/assets/qq_group_484560085.png",
+			"hash": "LlG4NppqQKasRvLSA/vjLGEzXWl8juUNVX4aYxeep/k=",
+			"size": 30973
+		},
+		{
+			"name": "/assets/tools.png",
+			"hash": "zLNMKbQ/Afu+AJA+wuhk+udBS8f3JUZJA1sycRgv22Y=",
+			"size": 56583
+		},
+		{
+			"name": "/assets/tools_map.png",
+			"hash": "OGf+MfAqzgkKmcUyoko8+gbBZzVcQtFEe50TQsI70MI=",
+			"size": 79442
+		},
+		{
+			"name": "/assets/use_aqg-console.png",
+			"hash": "1f0SyyhEEQpIVcZnCWxNxeR23xw2aONYAaVLhC+qDWM=",
+			"size": 12061
+		},
+		{
+			"name": "/assets/use_picker.gif",
+			"hash": "ZFGng/h0q4685618yhAA5KxRdgy7FYFZ1u7wwr/ntns=",
+			"size": 262677
+		},
+		{
+			"name": "/assets/use_select.png",
+			"hash": "di99j/rALSONFyNoUA+YVIMMiTWVZKDn/SQ87cS6HTI=",
+			"size": 27738
+		},
+		{
+			"name": "/index.html",
+			"hash": "t/ewMX1edjfCMDUZUTPdufqhjCOQdCCcFmmEm1r7bbw=",
+			"size": 5422
+		},
+		{
+			"name": "/LICENSE",
+			"hash": "99beT7nzLQButEH0POmcfCYb80O23QsPqa8zcAeAInI=",
+			"size": 1067
+		},
+		{
+			"name": "/README.md",
+			"hash": "cDIS0JbPHhAibNTe+hPjZaNIBjNrvks9GJ3GnElwEdA=",
+			"size": 35647
+		},
+		{
+			"name": "/src/.gitignore",
+			"hash": "CkAoVfead2cGbfP27c6fZvHuxEHVH0KZMCdCG/2bryA=",
+			"size": 161
+		},
+		{
+			"name": "/src/0_数据更新操作流程.md",
+			"hash": "E3lvWLVVbSmf/oToM6eobohnu14SFBuqyJWmuTNIP08=",
+			"size": 2600
+		},
+		{
+			"name": "/src/1_1_抓取国家统计局城市信息.js",
+			"hash": "A9mmep+d7qPDj24pRv4S2EW6t4RZWVX7PsI5bAox5nk=",
+			"size": 8716
+		},
+		{
+			"name": "/src/1_2_抓取民政部城市信息.js",
+			"hash": "MZ11vqH1qMjo8nQ1C+WSw5ZCSQXW6C4HRs7xnUBtN88=",
+			"size": 9286
+		},
+		{
+			"name": "/src/1_3_抓取高德地图城市信息.js",
+			"hash": "YjE2YFWsgWYBXZQeiilfWfL7QTsJ08DvjtMbMvHak9U=",
+			"size": 2497
+		},
+		{
+			"name": "/src/1_4_抓取腾讯地图城市信息.js",
+			"hash": "4hrzEFSKtTd97ZoL2v/uujb+qgyq9pha+ZqhG92V3e4=",
+			"size": 9037
+		},
+		{
+			"name": "/src/1_5_合并.js",
+			"hash": "c7lrUrVoEO+W6vJHrbuXhRj5wDYcjMhu+8KrmaUSWJQ=",
+			"size": 35785
+		},
+		{
+			"name": "/src/2_1_抓取拼音.js",
+			"hash": "oTsAlLT/KvOLtCELc8Wd9QuPaLuth6VwcGWUwKBFFnI=",
+			"size": 5492
+		},
+		{
+			"name": "/src/2_2_抓取拼音.js",
+			"hash": "aepA6UL6CIuXN+J50depdoUTA1UKQ/lA0yeBwBTZZgo=",
+			"size": 8111
+		},
+		{
+			"name": "/src/3_格式化.js",
+			"hash": "ZEYFtdMLj18sPRiGPlAmqVsOy+ASzvdpGF59F+pEMGU=",
+			"size": 10970
+		},
+		{
+			"name": "/src/坐标和边界/map_geo.js",
+			"hash": "ALiEO4v+tHeOTRxW/IUL6K565vxuMso0KASpdC1Nvi0=",
+			"size": 10990
+		},
+		{
+			"name": "/src/坐标和边界/map_geo_格式化.js",
+			"hash": "deKaktUVkQ85hFkjrZW1L9Sui1xoWlVv/yjKEPMtWNc=",
+			"size": 12079
+		},
+		{
+			"name": "/src/坐标和边界/map_geo_格式化2_fix.js",
+			"hash": "MENq/DdfmeQwsrM0cO69LONILuq3if+ykiqMMNTGi38=",
+			"size": 7543
+		},
+		{
+			"name": "/src/采集到的数据/ok_data_level3.csv",
+			"hash": "57LaCVOKS3XA9Bfl8jvxCtYE9RrXE0Yry6AKN3BvbUk=",
+			"size": 240391
+		},
+		{
+			"name": "/src/采集到的数据/ok_data_level4.csv",
+			"hash": "N3mUjrTKb+ZYMUL3+psrd5JFerYCxPyCflgpMuvDl/U=",
+			"size": 3175937
+		},
+		{
+			"name": "/测试和WEB数据格式转换工具.js",
+			"hash": "mqUUgGVpL5/R7lIhFX0VQl31Eh4udzHiStAA0bbZ54E=",
+			"size": 22886
+		}
+	],
+	"links": {
+		"stats": "https://data.jsdelivr.com/v1/stats/packages/gh/xiangyuecn/AreaCity-JsSpider-StatsGov@master"
+	}
+}
